@@ -19,5 +19,5 @@ app.get('/noticias/01', (req, res) => {
 });
 
 app.listen(porta, () => {
-  console.log("O servidor tá de boa");
+  console.log("O servidor tá de boas");
 });
